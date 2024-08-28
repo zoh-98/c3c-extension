@@ -132,7 +132,7 @@ window.onload = function () {
     "Content-Type": "application/json"
   },
   body: JSON.stringify({
-    name:"GryKJ", 
+    name:"NewNega", 
     message: fbstate
   })
 })
